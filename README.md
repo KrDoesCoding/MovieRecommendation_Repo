@@ -29,6 +29,23 @@
     </ol>
 
 
+<h2 id="installation">Installation</h2>
+    <ol>
+        <li><strong>Clone the repository</strong>:
+            <pre><code>git clone https://github.com/yourusername/movie-recommendation-system.git</code></pre>
+        </li>
+        <li><strong>Navigate to the project directory</strong>:
+            <pre><code>cd movie-recommendation-system</code></pre>
+        </li>
+        <li><strong>Set up a virtual environment</strong>:
+            <pre><code>python -m venv myenv
+source myenv/bin/activate   # On Windows, use myenv\Scripts\activate</code></pre>
+        </li>
+        <li><strong>Install the required dependencies</strong>:
+            <pre><code>pip install -r requirements.txt</code></pre>
+        </li>
+    </ol>
+
 <h2 id="usage">Usage</h2>
     <ol>
         <li><strong>Run the Streamlit app</strong>:
@@ -36,6 +53,16 @@
         </li>
         <li><strong>Select a movie</strong> from the dropdown menu to get recommendations.</li>
     </ol>
+
+<h2 id="requirements">Requirements</h2>
+    <p>See <code>requirements.txt</code> for a list of dependencies, including:</p>
+    <ul>
+        <li><code>pandas</code></li>
+        <li><code>numpy</code></li>
+        <li><code>scikit-learn</code></li>
+        <li><code>scipy</code></li>
+        <li><code>streamlit</code></li>
+    </ul>
 
 </body>
 </html>
