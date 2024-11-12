@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Movie Recommendation System</title>
-</head>
+
 <body>
 <h1>Movie Recommendation System</h1>
 
