@@ -63,6 +63,6 @@ source myenv/bin/activate   # On Windows, use myenv\Scripts\activate</code></pre
         <li><code>scipy</code></li>
         <li><code>streamlit</code></li>
     </ul>
-
+    <p>Dataset isn't added to this github repository due to its file size. You can get the dataset - Movielens from Kaggle.</p>
 </body>
 </html>
